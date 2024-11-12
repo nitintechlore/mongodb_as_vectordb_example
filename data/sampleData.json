@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "pageContent": "The powerhouse of the cell is the mitochondria",
+    "metadata": {
+      "category": "science"
+    }
+  },
+  {
+    "id": "2",
+    "pageContent": "The 2024 Olympics are in Paris",
+    "metadata": {
+      "category": "sports"
+    }
+  },
+  {
+    "id": "3",
+    "pageContent": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions",
+    "metadata": {
+      "category": "ocean"
+    }
+  },
+  {
+    "id": "4",
+    "pageContent": "Ollama provides advanced LLM capabilities for creating intelligent answers.",
+    "metadata": {
+      "category": "technology"
+    }
+  },
+  {
+    "id": "5",
+    "pageContent": "Mathematics is the science of numbers, quantities, shapes, and patterns, and it's foundational to many fields, including physics, engineering, economics, and computer science",
+    "metadata": {
+      "category": "mathematic"
+    }
+  },
+  {
+    "id": "6",
+    "pageContent": "Raghvind Yadav is a Flutter developer based in New Delhi, India. He has around 2 years of experience in the field and has worked on several projects, including a citizenly search app, micromentor app, and mishi: music wellness app. He holds a B.Tech degree in Computer Science Engineering from IK Gujral Punjab University with an impressive CGPA of 83.7.",
+    "metadata": {
+      "category": "personal"
+    }
+  }
+]
